@@ -19,7 +19,7 @@ layout: quote
 layout: statement
 ---
 
-## 今天會帶大家快速掌握 **Roo Code** 的核心用法
+## 今天會帶大家快速掌握 <span v-mark.underline.orange>Roo Code</span> 的核心用法
 
 <br/>
 
@@ -28,8 +28,6 @@ layout: statement
 ---
 layout: center
 ---
-
-=> 加上 Roo Code 的圖片
 
 ## 我們將聚焦三個問題
 
@@ -52,29 +50,25 @@ layout: statement
 # 為什麼用？
 
 ---
-
-Agent 導向的工具是什麼？
-
-跟其他類型的工具又差在哪？
-
-能解決傳統開發時的什麼痛點？
-
+layout: center
 ---
 
-開源社群
-
-豐富的開源社群支援，功能更新頻繁
-在公司內體驗社群版本的最新功能
-AI Provider 接公司內部
+# 將 AI 從一個「問答機器」或「打字加速器」
+# 提升為一個能夠自主行動的「代理人」
 
 ---
+layout: center
+---
 
-與 Cline 的差異？
+# 得益於活躍的開源社群，功能迭代快速
+# 且易於整合公司內部 AI Provider
 
-- Roo Code 著重於開源與彈性，適合需要高度自訂與快速跟進新功能的用戶。
-- Cline 則偏向穩定、封裝完整的商用解決方案。
+---
+layout: center
+---
 
-=> 用表格表現
+# Roo Code 相比 Cline 有更高度的自訂性
+# 能更彈性地符合團隊標準與角色需求
 
 ---
 layout: statement
@@ -88,7 +82,7 @@ layout: statement
 
 - **小型任務**：即時問答、查詢、簡單指令 → 用 Chat 模式
 - **中型任務**：程式自動補全、片段生成 → 用 Autocomplete 模式
-- **大型任務**：多步驟流程、專案協作 → 用 Agent 模式
+- **高層次的目標**：多步驟流程、專案協作 → 用 Agent 模式
 
 根據任務規模，選擇最合適的模式，讓 AI 成為你的最佳助手。
 
