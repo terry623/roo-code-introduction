@@ -19,7 +19,7 @@ layout: quote
 layout: statement
 ---
 
-## 今天會帶大家快速掌握 **Roo Code** 的核心用法
+## 今天會帶大家快速掌握 <span v-mark.orange>Roo Code</span> 的核心用法
 
 <br/>
 
@@ -29,25 +29,37 @@ layout: statement
 layout: center
 ---
 
-我們將聚焦三個問題
+## 我們將聚焦三個問題
 
-- 為什麼用？
-- 什麼時候用？
-- 怎麼使用？
+<br/>
+
+## 1. 為什麼用？
+
+<br/>
+
+## 2. 什麼時候用？
+
+<br/>
+
+## 3. 怎麼使用？
 
 ---
-layout: section
+layout: statement
 ---
 
 # 為什麼用？
 
 ---
 
-Roo Code 基於開源套件，擁有以下優勢：
+Agent 導向的工具是啥？
 
-- **快速迭代**：開源社群活躍，功能更新頻繁，常常一週就有多個新版本。
-- **緊跟潮流**：能夠第一時間體驗各種最新 AI 功能。
-- **高度彈性**：不進行魔改，保留原生特性，方便自訂與擴充。
+---
+
+開源社群
+
+豐富的開源社群支援，功能更新頻繁
+在公司內體驗社群版本的最新功能
+AI Provider 接公司內部
 
 ---
 
@@ -55,11 +67,9 @@ Roo Code 基於開源套件，擁有以下優勢：
 
 - Roo Code 著重於開源與彈性，適合需要高度自訂與快速跟進新功能的用戶。
 - Cline 則偏向穩定、封裝完整的商用解決方案。
-- 選擇 Roo Code，等於選擇主動掌握 AI 工具的未來。
-
 
 ---
-layout: section
+layout: statement
 ---
 
 # 什麼時候用？
@@ -82,13 +92,13 @@ layout: section
 - 你專注於決策與監督，提升整體效率
 
 ---
-layout: section
+layout: statement
 ---
 
 # 怎麼使用？
 
 ---
-layout: statement
+layout: section
 ---
 
 # Getting Started ✍️
@@ -98,9 +108,11 @@ layout: center
 ---
 
 # Context Mentions
+
 <br/>
 
 # Multiple Modes
+
 <br/>
 
 # Code Actions
@@ -110,31 +122,35 @@ layout: center
 ---
 
 # Checkpoints
+
 <br/>
 
 # Enhance Prompt
+
 <br/>
 
 # Image Insertion
 
 ---
-layout: statement
+layout: section
 ---
 
 # Customizing ⭐
-
-## Instructions & Modes
 
 ---
 layout: center
 ---
 
-# `.roo/rules/`
-# `.roo/rules-{modeSlug}/`
-# `.roomodes`
+# Instructions
+`.roo/rules/`<br/>`.roo/rules-{modeSlug}/`
+
+<br/>
+
+# Modes
+`.roomodes`
 
 ---
-layout: statement
+layout: section
 ---
 
 # MCP 🚀
@@ -144,9 +160,21 @@ layout: center
 ---
 
 # Context7
+https://mcp.context7.com/mcp
+
+<br/>
+
+# DeepWiki
+https://mcp.deepwiki.com/mcp
 
 ---
 layout: quote
 ---
 
-## 「回到第一點：為什麼用 Roo Code？」
+# 「回到第一點：為什麼用 Roo Code？」
+
+---
+layout: statement
+---
+
+# Thank you.
