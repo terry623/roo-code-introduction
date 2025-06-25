@@ -1,13 +1,14 @@
 ---
 theme: default
-background: https://cover.sli.dev
+background: "/images/background.webp"
 title: Roo Code Introduction
 drawings:
   persist: false
 transition: slide-left
 ---
 
-# Roo Code
+# Roo Code 實戰指南
+## 助你效率倍增的 AI 程式助手
 
 ---
 layout: quote
