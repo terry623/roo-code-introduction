@@ -19,7 +19,7 @@ layout: quote
 layout: statement
 ---
 
-## 今天會帶大家快速掌握 <span v-mark.orange>Roo Code</span> 的核心用法
+## 今天會帶大家快速掌握 **Roo Code** 的核心用法
 
 <br/>
 
@@ -51,7 +51,9 @@ layout: statement
 
 ---
 
-Agent 導向的工具是啥？
+Agent 導向的工具是什麼？
+
+跟其他類型的工具又差在哪？
 
 ---
 
