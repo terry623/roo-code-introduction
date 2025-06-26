@@ -152,6 +152,11 @@ layout: center
 # Modes
 `.roomodes`
 
+<br/>
+
+# Exclusions
+`.rooignore`
+
 ---
 layout: section
 ---
