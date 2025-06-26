@@ -14,17 +14,17 @@ transition: slide-left
 layout: quote
 ---
 
-# 大家可能會想：「這場簡報和我有什麼關係？」
+# 大家或許會問：「這場簡報和我有什麼關係？」
 
 ---
 layout: statement
 ---
 
-## 今天會帶大家快速掌握 <span v-mark.underline.orange>Roo Code</span> 的核心用法
+## 今天將快速掌握 <span v-mark.underline.orange>Roo Code</span> 的核心用法
 
 <br/>
 
-## 讓日常工作更有效率地運用 AI 工具
+## 更有效率地運用 AI 工具於日常工作
 
 ---
 layout: center
@@ -54,8 +54,8 @@ layout: statement
 layout: center
 ---
 
-# 將 AI 從一個「問答機器」或「打字加速器」
-# 提升為一個能夠自主行動的「代理人」
+# 將 AI 從被動的「問答機器」或「打字加速器」
+# 提升為能理解專案、自主執行任務的「代理人」
 
 ---
 layout: center
@@ -180,6 +180,12 @@ layout: quote
 ---
 
 # 回到第一點：「為什麼用 Roo Code？」
+
+---
+layout: statement
+---
+
+## 現在就開始，讓 <span v-mark.underline.orange>Roo Code</span> 成為你的 AI 開發夥伴
 
 ---
 layout: statement
