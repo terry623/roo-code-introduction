@@ -95,6 +95,14 @@ layout: center
 能在設定的目標和範圍內自主執行多步驟任務
 
 ---
+layout: center
+---
+
+# 專注於高層次的目標
+
+# 從「下達具體指令」轉變為「委託一個任務」
+
+---
 layout: statement
 ---
 
