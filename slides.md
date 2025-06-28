@@ -16,6 +16,12 @@ layout: quote
 
 # 大家或許會問：「這場簡報和我有什麼關係？」
 
+<!--
+Hello
+Hello2
+Hello3
+-->
+
 ---
 layout: statement
 ---
