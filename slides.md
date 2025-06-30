@@ -201,6 +201,8 @@ layout: section
 # Getting Started ✍️
 
 <!--
+請大家看著我的螢幕
+
 1. 通常會把 Roo Code 拉到右側，你就可以拉檔案
 
 2. 安裝教學與填 API Endpoint
