@@ -8,7 +8,7 @@ transition: slide-left
 ---
 
 # Roo Code 實戰指南
-## 助你效率倍增的 AI 程式助手
+# 助你效率倍增的 AI 程式助手
 Terry Lin @MediaTek
 
 <!--
